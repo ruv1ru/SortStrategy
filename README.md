@@ -1,9 +1,9 @@
 # SortStrategy
-Strategy pattern applied to generic sorting algorithms 
+Strategy pattern applied to generic sorting algorithms.
 
 
 
-    //int[] test = new int[500]
+    //Benchmark results for random integer array with 500 items
     |                Method |      Mean |      Error |     StdDev |
     |---------------------- |----------:|-----------:|-----------:|
     | SortWithSelectionSort | 220.52 us |  2.8713 us |  2.6859 us |
@@ -11,7 +11,7 @@ Strategy pattern applied to generic sorting algorithms
     |    SortWithBubbleSort | 545.70 us | 10.8125 us | 10.1140 us |
     |     SortWithQuickSort | 954.28 us | 14.1800 us | 13.2639 us |
 
-    //int[] test = new int[1000]; 
+    //Benchmark results for random integer array with 1000 items
     |                Method |        Mean |     Error |    StdDev |
     |---------------------- |------------:|----------:|----------:|
     | SortWithSelectionSort |   800.00 us | 15.083 us | 14.108 us |
