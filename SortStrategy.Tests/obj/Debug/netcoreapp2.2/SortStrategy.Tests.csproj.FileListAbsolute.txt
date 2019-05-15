@@ -1,0 +1,17 @@
+/Users/ruviru/Projects/SortStrategy/SortStrategy.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/ruviru/Projects/SortStrategy/SortStrategy.Tests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/ruviru/Projects/SortStrategy/SortStrategy.Tests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/ruviru/Projects/SortStrategy/SortStrategy.Tests/bin/Debug/netcoreapp2.2/SortStrategy.Tests.deps.json
+/Users/ruviru/Projects/SortStrategy/SortStrategy.Tests/bin/Debug/netcoreapp2.2/SortStrategy.Tests.runtimeconfig.json
+/Users/ruviru/Projects/SortStrategy/SortStrategy.Tests/bin/Debug/netcoreapp2.2/SortStrategy.Tests.runtimeconfig.dev.json
+/Users/ruviru/Projects/SortStrategy/SortStrategy.Tests/bin/Debug/netcoreapp2.2/SortStrategy.Tests.dll
+/Users/ruviru/Projects/SortStrategy/SortStrategy.Tests/bin/Debug/netcoreapp2.2/SortStrategy.Tests.pdb
+/Users/ruviru/Projects/SortStrategy/SortStrategy.Tests/bin/Debug/netcoreapp2.2/sortstrategy.dll
+/Users/ruviru/Projects/SortStrategy/SortStrategy.Tests/bin/Debug/netcoreapp2.2/sortstrategy.pdb
+/Users/ruviru/Projects/SortStrategy/SortStrategy.Tests/obj/Debug/netcoreapp2.2/SortStrategy.Tests.csprojAssemblyReference.cache
+/Users/ruviru/Projects/SortStrategy/SortStrategy.Tests/obj/Debug/netcoreapp2.2/SortStrategy.Tests.csproj.CoreCompileInputs.cache
+/Users/ruviru/Projects/SortStrategy/SortStrategy.Tests/obj/Debug/netcoreapp2.2/SortStrategy.Tests.AssemblyInfoInputs.cache
+/Users/ruviru/Projects/SortStrategy/SortStrategy.Tests/obj/Debug/netcoreapp2.2/SortStrategy.Tests.AssemblyInfo.cs
+/Users/ruviru/Projects/SortStrategy/SortStrategy.Tests/obj/Debug/netcoreapp2.2/SortStrategy.Tests.csproj.CopyComplete
+/Users/ruviru/Projects/SortStrategy/SortStrategy.Tests/obj/Debug/netcoreapp2.2/SortStrategy.Tests.dll
+/Users/ruviru/Projects/SortStrategy/SortStrategy.Tests/obj/Debug/netcoreapp2.2/SortStrategy.Tests.pdb

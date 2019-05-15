@@ -1,0 +1,11 @@
+/Users/ruviru/Projects/SortStrategy/SortStrategy/obj/Debug/netcoreapp2.2/SortStrategy.csprojAssemblyReference.cache
+/Users/ruviru/Projects/SortStrategy/SortStrategy/obj/Debug/netcoreapp2.2/SortStrategy.csproj.CoreCompileInputs.cache
+/Users/ruviru/Projects/SortStrategy/SortStrategy/obj/Debug/netcoreapp2.2/SortStrategy.AssemblyInfoInputs.cache
+/Users/ruviru/Projects/SortStrategy/SortStrategy/obj/Debug/netcoreapp2.2/SortStrategy.AssemblyInfo.cs
+/Users/ruviru/Projects/SortStrategy/SortStrategy/bin/Debug/netcoreapp2.2/SortStrategy.deps.json
+/Users/ruviru/Projects/SortStrategy/SortStrategy/bin/Debug/netcoreapp2.2/SortStrategy.runtimeconfig.json
+/Users/ruviru/Projects/SortStrategy/SortStrategy/bin/Debug/netcoreapp2.2/SortStrategy.runtimeconfig.dev.json
+/Users/ruviru/Projects/SortStrategy/SortStrategy/bin/Debug/netcoreapp2.2/SortStrategy.dll
+/Users/ruviru/Projects/SortStrategy/SortStrategy/bin/Debug/netcoreapp2.2/SortStrategy.pdb
+/Users/ruviru/Projects/SortStrategy/SortStrategy/obj/Debug/netcoreapp2.2/SortStrategy.dll
+/Users/ruviru/Projects/SortStrategy/SortStrategy/obj/Debug/netcoreapp2.2/SortStrategy.pdb

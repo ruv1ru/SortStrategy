@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>SortStrategy.BenchMarkSortTest-20190512-082318</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet=v0.11.5, OS=macOS Sierra 10.12.6 (16G1815) [Darwin 16.7.0]
+Intel Core i5-7360U CPU 2.30GHz (Kaby Lake), 1 CPU, 4 logical and 2 physical cores
+.NET Core SDK=2.2.106
+  [Host]     : .NET Core 2.2.4 (CoreCLR 4.6.27521.02, CoreFX 4.6.27521.01), 64bit RyuJIT
+  DefaultJob : .NET Core 2.2.4 (CoreCLR 4.6.27521.02, CoreFX 4.6.27521.01), 64bit RyuJIT
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>         Method</th><th> Mean</th><th>Error</th><th>StdDev</th>
+</tr>
+</thead><tbody><tr><td>SortWithSelectionSort</td><td>800.00 us</td><td>15.083 us</td><td>14.108 us</td>
+</tr><tr><td>SortWithMergeSort</td><td>73.06 us</td><td>1.231 us</td><td>1.092 us</td>
+</tr><tr><td>SortWithBubbleSort</td><td>1,983.05 us</td><td>34.103 us</td><td>31.900 us</td>
+</tr><tr><td>SortWithQuickSort</td><td>1,901.96 us</td><td>27.131 us</td><td>25.378 us</td>
+</tr></tbody></table>
+</body>
+</html>

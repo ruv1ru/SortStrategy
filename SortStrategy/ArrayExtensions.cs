@@ -1,0 +1,14 @@
+namespace SortStrategy
+{
+    public static class ArrayExtensions
+    {
+
+        public static void Swap<T>(this T[] array, int index1, int index2)
+        {
+            var currentIndexValue = array[index1];
+            array[index1] = array[index2];
+            array[index2] = currentIndexValue;
+        }
+
+    }
+}
